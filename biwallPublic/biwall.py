@@ -1,6 +1,8 @@
+#testpush
+
 import time
 from binance.client import Client
-
+stage
 api_key = 'INSERT API KEY HERE'
 api_secret = 'INSERT API SECRET HERE'
 
