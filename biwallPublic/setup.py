@@ -1,5 +1,5 @@
 setup(
-    ...
-    dependency_links=['https://github.com/sammchardy/python-binance.git']
-    ...
+
+    dependency_links=['http://github.com/user/repo/tarball/master#egg=package-1.0']
+
 )
